@@ -1,0 +1,1 @@
+create table book (id UUID primary key, name varchar, isbn varchar, available BOOLEAN DEFAULT TRUE);
